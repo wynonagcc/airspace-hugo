@@ -1,9 +1,9 @@
 ---
 banner:
   enable: true
-  bg_image: images/slider-bg.jpg
+  bg_image: images/5084622_grocery-store-generic-img.jpg
   bg_overlay: true
-  title: A Digital Marketing <br/> & Design Agency
+  title: My Grocery Pal
   content: We love the Web and the work we do.We work closely with our clients to
     deliver  the best possible solutions for their needs
   button:
