@@ -279,10 +279,10 @@ startLevel = 2
 [outputs]
 home = ["HTML"]
 [params]
-author = "Themefisher"
+author = "A02Group2"
 description = "This is meta description"
-images = ["images/logo.png"]
-logo = "images/logo.png"
+images = ["images/mygrocerypallogo.png"]
+logo = "images/mygrocerypallogo.png"
 logo_width = "150px"
 title = "Airspace Hugo Template"
 [params.contact]
