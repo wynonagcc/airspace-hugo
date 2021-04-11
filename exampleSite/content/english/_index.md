@@ -23,7 +23,7 @@ about:
     The importance of My Grocery Pal is to allow users to save not only money, but also the most valuable resource, their time. Shopping for groceries is an essential, time consuming chore for everyone. With My Grocery Pal, the monotonous process of individually sifting through advantages and disadvantages of potential grocery choices will be automated and streamlined. A feature so desperately needed in our busy lifestyles.
     This application is intended to be a mobile application with support for iOS and android devices. Future releases could support compatibility with MacOs and Windows.
     The project will be considered a success based on two criteria. First, users will be allowed to submit their honest opinion about the application and will be able to provide ratings from 1 - 5 on the specifics of the application through an evaluation form, with 1 being the lowest rating, and 5 being the highest. Second, users will also have an option to give an overall rating on their respective app-store. If the average app rating is found to be 4 or greater, or if the average evaluation form rating is greater than 4, then the application will be considered a success.
-  image: images/wrapper-img.png
+  image: images/pexels-olya-kobruseva-6534856.mp4
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
