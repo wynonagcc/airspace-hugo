@@ -56,7 +56,7 @@ portfolio:
     be provided with a plethora of options to satisfy any current criteria one would
     require.
   button:
-    enable: true
+    enable: false
     label: View Works
     link: project
 service:
