@@ -44,9 +44,7 @@ about:
     the average app rating is found to be 4 or greater, or if the average evaluation
     form rating is greater than 4, then the application will be considered a success."
  
- 
-{{< youtube 8plwv25NYRo >}}
----
+
 portfolio:
   enable: true
   bg_image: "/images/gettyimages-1158242033_411023.jpg"
@@ -117,6 +115,9 @@ funfacts:
 
 title: My Grocery Pal
 
+---
+{{< youtube 8plwv25NYRo >}}
+---
 
 
 
