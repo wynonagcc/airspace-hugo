@@ -46,7 +46,7 @@ service:
   - icon: ion-compass
     name: Browse Grocery Items
     content: Find a grocery item that you want to add to your grocery list easily.
-  - icon: ion-image
+  - icon: ion-search
     name: Find Stores
     content: Find store(s) that sells the grocery items in your grocery list.
   - icon: ion-bug
