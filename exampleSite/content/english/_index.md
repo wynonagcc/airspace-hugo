@@ -43,7 +43,11 @@ about:
     also have an option to give an overall rating on their respective app-store. If
     the average app rating is found to be 4 or greater, or if the average evaluation
     form rating is greater than 4, then the application will be considered a success."
-  image: images/pexels-olya-kobruseva-6534856.mp4
+  image: images/thumbnail.png
+  button:
+    enable: true
+    label: Watch our Demo Video
+    link: https://www.youtube.com/watch?v=8plwv25NYRo
 portfolio:
   enable: true
   bg_image: "/images/gettyimages-1158242033_411023.jpg"
