@@ -56,9 +56,9 @@ service:
     content: You can filter the stores options based on price, average review, distance,
       or etc. Choose the option that best fits your needs!
   - icon: ion-headphone
-    name: Logo Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: See a Recipe
+    content: No idea what to cook for today? Browse through our recipe list and see
+      the one that you would like to try!
   - icon: ion-leaf
     name: Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
