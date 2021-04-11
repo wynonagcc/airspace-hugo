@@ -18,30 +18,30 @@ about:
   content: "Users provide their personal grocery list, and My Grocery Pal will quickly
     offer store options, enough to tailor any current user demand. These options can
     range from cheapest price, to closest location, or even to the best reviewed local
-    stores.\n\nThe application will feature the ability to scroll through data about
+    stores.\n\n\nThe application will feature the ability to scroll through data about
     each option, allowing users to compare and contrast the pros and cons between
     different options. The data displayed within each option will be concise and filled
     with only enough information to allow for quick and efficient comparisons. Each
     option will contain information such as total price, distance, and reviews. With
     this knowledge at hand, users can freely choose an option that best satisfies
-    their demands.\n\nUsers will be able to browse through many provided or user-created
+    their demands.\n\n\nUsers will be able to browse through many provided or user-created
     recipes. Any wanted recipes can then be selected, and a grocery list will be created
     seamlessly from the recipe’s ingredient list. Trying and experimenting with new
     recipes can now be done with ease. Through many complementary features like these,
-    My Grocery Pal will be the go-to application for any grocery needs.\n\nMy Grocery
+    My Grocery Pal will be the go-to application for any grocery needs.\n\n\nMy Grocery
     Pal is targeted for all people who buy groceries, including chefs of all ages
     and skill levels, with a main focus on those with a busy lifestyle. This includes
     but is not limited to, working individuals, students, and people with big families.
     The simple to use and automated functionality of My Grocery Pal accommodates those
     with busy lives. With one press of a button, users will be provided with a plethora
-    of options to satisfy any current criteria one would require.\n\nThe importance
+    of options to satisfy any current criteria one would require.\n\n\nThe importance
     of My Grocery Pal is to allow users to save not only money, but also the most
     valuable resource, their time. Shopping for groceries is an essential, time consuming
     chore for everyone. With \nMy Grocery Pal, the monotonous process of individually
     sifting through advantages and disadvantages of potential grocery choices will
-    be automated and streamlined. A feature so desperately needed in our busy lifestyles.\n\nThis
+    be automated and streamlined. A feature so desperately needed in our busy lifestyles.\n\n\nThis
     application is intended to be a mobile application with support for iOS and android
-    devices. Future releases could support compatibility with MacOs and Windows.\n\nThe
+    devices. Future releases could support compatibility with MacOs and Windows.\n\n\nThe
     project will be considered a success based on two criteria. First, users will
     be allowed to submit their honest opinion about the application and will be able
     to provide ratings from 1 - 5 on the specifics of the application through an evaluation
