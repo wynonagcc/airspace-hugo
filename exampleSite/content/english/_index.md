@@ -4,10 +4,9 @@ banner:
   bg_image: images/5084622_grocery-store-generic-img.jpg
   bg_overlay: true
   title: My Grocery Pal
-  content: We love the Web and the work we do.We work closely with our clients to
-    deliver  the best possible solutions for their needs
+  content: We take care of your groceries. Keep your grocery list and find stores options to buy them in one app!
   button:
-    enable: true
+    enable: false
     label: Discover Our Project
     link: project
 about:
