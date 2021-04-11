@@ -119,6 +119,4 @@ title: My Grocery Pal
 
 ---
 
-{{< yt e4wNoTV3Gw >}}
-
 
