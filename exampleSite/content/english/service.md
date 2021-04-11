@@ -46,9 +46,8 @@ service:
     name: Manage a Grocery List
     content: Add or remove a grocery item from your grocery list with ease
   - icon: ion-compass
-    name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Browse Grocery Items
+    content: Find a grocery item that you want to add to your grocery list easily
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
