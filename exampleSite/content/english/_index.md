@@ -28,13 +28,7 @@ about:
     recipes. Any wanted recipes can then be selected, and a grocery list will be created
     seamlessly from the recipe’s ingredient list. Trying and experimenting with new
     recipes can now be done with ease. Through many complementary features like these,
-    My Grocery Pal will be the go-to application for any grocery needs.\n\n\nMy Grocery
-    Pal is targeted for all people who buy groceries, including chefs of all ages
-    and skill levels, with a main focus on those with a busy lifestyle. This includes
-    but is not limited to, working individuals, students, and people with big families.
-    The simple to use and automated functionality of My Grocery Pal accommodates those
-    with busy lives. With one press of a button, users will be provided with a plethora
-    of options to satisfy any current criteria one would require.\n\n\nThe importance
+    My Grocery Pal will be the go-to application for any grocery needs.\n\n\nThe importance
     of My Grocery Pal is to allow users to save not only money, but also the most
     valuable resource, their time. Shopping for groceries is an essential, time consuming
     chore for everyone. With \nMy Grocery Pal, the monotonous process of individually
@@ -53,15 +47,14 @@ about:
 portfolio:
   enable: true
   bg_image: images/feature-bg.jpg
-  title: WE BELIEVE IN GREAT IDEAS
-  content: " Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur
-    ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo, tortor mauris
-    condimentum nibh, ut fermentum massa justo sit amet risus.\n\nMaecenas faucibus
-    mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
-    Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
-    massa justo sit amet risus.\n\nMaecenas faucibus mollis interdum. Morbi leo risus,
-    porta ac consectetur ac, vestibulum at eros. Fusce dapibus, tellus ac cursus commodo,
-    tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. "
+  title: TARGET USERS
+  content: My Grocery Pal is targeted for all people who buy groceries, including
+    chefs of all ages and skill levels, with a main focus on those with a busy lifestyle.
+    This includes but is not limited to, working individuals, students, and people
+    with big families. The simple to use and automated functionality of My Grocery
+    Pal accommodates those with busy lives. With one press of a button, users will
+    be provided with a plethora of options to satisfy any current criteria one would
+    require.
   button:
     enable: true
     label: View Works
