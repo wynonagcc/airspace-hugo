@@ -59,16 +59,16 @@ funfacts:
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
-    count: "99"
+    count: '99'
   - icon: ion-ios-glasses-outline
     name: Article Written
-    count: "45"
+    count: '45'
   - icon: ion-ios-compose-outline
     name: Projects Completed
-    count: "125"
+    count: '125'
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: "200"
+    count: '200'
   testimonial_slider:
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
@@ -88,6 +88,6 @@ funfacts:
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-title: SDQQERASFDSDFA
+title: Michael IS DA
 
 ---
