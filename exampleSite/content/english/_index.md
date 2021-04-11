@@ -46,7 +46,7 @@ about:
   image: images/pexels-olya-kobruseva-6534856.mp4
 portfolio:
   enable: true
-  bg_image: images/gettyimages-1158242033_411023.jpg
+  bg_image: "/images/gettyimages-1158242033_411023.jpg"
   title: TARGET USERS
   content: My Grocery Pal is targeted for all people who buy groceries, including
     chefs of all ages and skill levels, with a main focus on those with a busy lifestyle.
