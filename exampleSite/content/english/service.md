@@ -60,9 +60,9 @@ service:
     content: No idea what to cook for today? Browse through our recipe list and see
       the one that you would like to try!
   - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Add recipe's ingredients to grocery list
+    content: You could add the ingredients listed on our recipe to your grocery list
+      with just one click!
   - icon: ion-planet
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
