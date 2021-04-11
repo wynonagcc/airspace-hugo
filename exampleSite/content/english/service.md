@@ -52,9 +52,9 @@ service:
     name: Find Stores
     content: Find store(s) that sells the grocery items in your grocery list.
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Filter the Stores Options
+    content: You can filter the stores options based on price, average review, distance,
+      or etc. Choose the option that best fits your needs!
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
