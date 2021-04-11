@@ -63,14 +63,6 @@ service:
     name: Add recipe's ingredients to grocery list
     content: You could add the ingredients listed on our recipe to your grocery list
       with just one click!
-  - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
-  - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
 cta:
   enable: true
 
