@@ -115,7 +115,7 @@ funfacts:
 
 title: My Grocery Pal
 
-{{< youtube id="e4wNoTV3Gw" >}}
-
 
 ---
+
+{{< youtube id="e4wNoTV3Gw" >}}
