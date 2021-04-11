@@ -40,7 +40,7 @@ service:
   title: Our Major Functionalities
   description: ''
   service_item:
-  - icon: ion-list
+  - icon: ion-list-circle-outline
     name: Manage a Grocery List
     content: Add or remove a grocery item from your grocery list with ease.
   - icon: ion-compass
