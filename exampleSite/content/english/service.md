@@ -57,7 +57,7 @@ service:
     name: See a Recipe
     content: No idea what to cook for today? Browse through our recipe list and see
       the one that you would like to try!
-  - icon: ion-leaf
+  - icon: ion-add
     name: Add recipe's ingredients to grocery list
     content: You could add the ingredients listed on our recipe to your grocery list
       with just one click!
