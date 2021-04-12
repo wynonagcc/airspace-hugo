@@ -49,7 +49,7 @@ service:
   - icon: ion-search
     name: Find Stores
     content: Find store(s) that sells the grocery items in your grocery list.
-  - icon: ion-filter-circle
+  - icon: ion-filter
     name: Filter the Stores Options
     content: You can filter the stores options based on price, average review, distance,
       or etc. Choose the option that best fits your needs!
