@@ -65,13 +65,15 @@ service:
   service_item: []
 cta:
   enable: true
-  bg_image: images/call-to-action-bg.jpg
-  title: We design delightful digital experiences.
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for other clients, and meet our highly
-    experienced Team who just love to design.
+  bg_image: images/postmortembg.jpg
+  title: POSTMORTEM
+  content: What was the overall architecture of your system (particularly if it is different from the demo system)?  
+    The overall architecture of our system is the 3-tier architecture, where we are separating the code into Presentation, Logic, and Data layers.
+    What went right in the development process?  
+    One thing that went right during the development process is that  our group communicated well with each other. We had a sufficient amount of meetings together and we all     made sure we had a plan to follow. Another thing is that we felt our code quality throughout the development process went smoothly. We all discussed together how the code     would be divided (what classes and functions to make), that when it came to combine our code, we did not go through too much trouble.  
+
   button:
-    enable: true
+    enable: false
     label: Tell Us Your Story
     link: contact
 funfacts:
