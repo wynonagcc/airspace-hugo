@@ -67,11 +67,39 @@ cta:
   enable: true
   bg_image: images/postmortembg.jpg
   title: POSTMORTEM
-  content: What was the overall architecture of your system (particularly if it is different from the demo system)?  
-    The overall architecture of our system is the 3-tier architecture, where we are separating the code into Presentation, Logic, and Data layers.
-    What went right in the development process?  
-    One thing that went right during the development process is that  our group communicated well with each other. We had a sufficient amount of meetings together and we all     made sure we had a plan to follow. Another thing is that we felt our code quality throughout the development process went smoothly. We all discussed together how the code     would be divided (what classes and functions to make), that when it came to combine our code, we did not go through too much trouble.  
-
+  content: "What was the overall architecture of your system (particularly if it is different from the demo system)?\nThe overall architecture of our system is the 3-tier     
+    architecture, where we are separating the code into Presentation, Logic, and Data layers.\n\nWhat went right in the development process?\nOne thing that went right during
+    the development process is that  our group communicated well with each other. We had a sufficient amount of meetings together and we all made sure we had a plan to 
+    follow. Another thing is that we felt our code quality throughout the development process went smoothly. We all discussed together how the code would be divided (what 
+    classes and functions to make), that when it came to combine our code, we did not go through too much trouble.\n\nWhat went wrong in the development process?\n
+    We didn’t take into account the workload for each feature when we were planning which features we want to accomplish during each iteration, we were focusing on the 
+    priority only. Due to having more workload in the first iterations and trying to finish all the features as soon as we can, we left more bugs during the first iterations 
+    compared to the last ones.\n\nWhat would you do differently, if you had the chance to start over?\n
+    All of us have learned so much from working together and doing this project, and if we ever had the chance to do it again we would apply what we learned from this 
+    experience. One thing that caused us a lot of time was when we tried to merge our code together, but since there were a significant amount of changes in both codes, it 
+    resolved a lot of merge conflicts. If we were ever going to do this another time, we would instead try to merge our code with each other after every little change. 
+    Another thing would be that in the first iteration, we did not really focus too much on the developer tasks or user stories. However, when we did in iteration 2 is when 
+    we realized how much these help us to stay organized and to clarify what everyone needs to do. One thing that we should have paid attention to more if we were a group 
+    that would work with each other for a long time is our time estimates. We kept track of our time estimates for all iterations however we did not really pay attention to 
+    make sure they were accurate. If we did we would have an easier time tracking our velocity and adjusted accordingly to make sure we set a more reasonable goal in what we 
+    can complete.\n\nHow large is the project (number of methods, classes, etc)? How much of this is (roughly) devoted to each major system component? And any other 
+    quantifiables (e.g. if you have a record of hours spent on tasks).\n\nWhat took the most time? The least? Any surprises?\n One thing that took up most of the time was 
+    learning how new features work on Android Studio. For example, setting up the HSQLDB and to get it actually working took the most time because we were doing it for the 
+    first time on Android Studio and the error messages were not as helpful. To code the Domain-specific Objects took the least time because we were all familiar with Java 
+    and how an Object is working in Java.\n\nAre there any particular design smells, or brilliant design decisions?\n\nAre there any outstanding bugs?\n
+    There was a bug in which whenever we switch to a different activity, we couldn't access the database somehow. We couldn’t find the root of the problem for a while until  
+    we fixed the place where we are setting up the databases, which is in the Main Activity.\n\nDid any features work better than expected?\n\nAre you using any technologies 
+    other than what was required (e.g. JMock, GUI builders, etc.)?\nNo, we are using required technologies only.\n\nAre you using any specific techniques covered in the 
+    course (TDD, pair programming, scrums, etc)?\n
+    We used pair programming techniques a lot for certain features. Some features that require a lot of effort were done by two people, where one person is writing the code 
+    while sharing their screen and another person observes it.\n\nHow did the project change from your initial (iteration 0) vision or stories, or did it work out as 
+    predicted?\n
+    For the most part, we were able to complete our initial vision of making a grocery list app that can tell you which store combinations you can buy your items from. The 
+    main features of our app are complete. However, there were some minor features we planned to do that we were not able to complete due to time constraints, such as making 
+    your own recipe.\n\nWhat did you learn about team or large project development? What will you start doing, keep doing, or stop doing next time?\n
+    Good planning is a key for completing quality works in a large project development. Getting everyone on the same page and being aware of their own responsibility is also 
+    important to make sure that the distributed workload could be finished efficiently and effectively.\n\nCan you draw any conclusions from what you’ve done?\n
+    Although our development process did work, there were still quite a few things we could have done to make it better."
   button:
     enable: false
     label: Tell Us Your Story
