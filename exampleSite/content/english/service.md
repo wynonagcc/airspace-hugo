@@ -53,7 +53,7 @@ service:
     name: Filter the Stores Options
     content: You can filter the stores options based on price, average review, distance,
       or etc. Choose the option that best fits your needs!
-  - icon: ''
+  - icon: ion-android-list
     name: See a Recipe
     content: No idea what to cook for today? Browse through our recipe list and see
       the one that you would like to try!
