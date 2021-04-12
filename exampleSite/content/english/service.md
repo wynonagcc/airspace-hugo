@@ -53,11 +53,11 @@ service:
     name: Filter the Stores Options
     content: You can filter the stores options based on price, average review, distance,
       or etc. Choose the option that best fits your needs!
-  - icon: ion-headphone
+  - icon: ''
     name: See a Recipe
     content: No idea what to cook for today? Browse through our recipe list and see
       the one that you would like to try!
-  - icon: ion-add
+  - icon: ion-android-add-circle
     name: Add recipe's ingredients to grocery list
     content: You could add the ingredients listed on our recipe to your grocery list
       with just one click!
