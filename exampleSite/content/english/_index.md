@@ -146,7 +146,7 @@ funfacts:
       make us stand out from the crowd.
 velocity:
   enable: true
-  bg_image: images/gettyimages-1158242033_4110232.jpg
+  image: images/gettyimages-1158242033_4110232.jpg
   title: PROJECT VELOCITY
   content: The actual work completed on the velocity chart is based on how much
     we have done during each iteration including the fixes.
