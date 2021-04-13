@@ -125,7 +125,7 @@ funfacts:
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
   - name: Goldiella, Wynona
-    image: images/clients/avater-1.jpg
+    image: images/wynonaavatar.png
     content: I have learned a lot about test-driven development skills as I was in charge of most unit tests, 
       integrations tests, and system tests in this project. I also improved my object-oriented programming skills
       while I was programming for the logic of the project as we had to practice the SOLID design principles.
