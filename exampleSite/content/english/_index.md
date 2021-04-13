@@ -106,39 +106,41 @@ cta:
     link: contact
 funfacts:
   enable: true
-  title: Fun Facts About Us
-  description: "'Far far away, behind the word mountains, far from the countries Vokalia
-    and Consonantia, <br> there live the blind texts. Separated they live in Bookmarksgrove
-    right at the coast of the Semantics'"
+  title: About Us
+  description: "'We strive to do the best!'"
   funfact_item:
   - icon: ion-ios-chatboxes-outline
     name: Cups Of Coffee
     count: '99'
-  - icon: ion-ios-glasses-outline
-    name: Article Written
-    count: '45'
   - icon: ion-ios-compose-outline
     name: Projects Completed
-    count: '125'
+    count: '6'
   - icon: ion-ios-timer-outline
     name: Combined Projects
-    count: '200'
+    count: '7'
   testimonial_slider:
-  - name: Raymond Roy
+  - name: Capillar, Elieser
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
-  - name: Randi Renin
+  - name: Goldiella, Wynona
     image: images/clients/avater-1.jpg
-    designation: CEO-Themefisher
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
-  - name: Rose Rio
+    content: I have learned a lot about test-driven development skills as I was in charge of most unit tests, 
+      integrations tests, and system tests in this project. I also improved my object-oriented programming skills
+      while I was programming for the logic of the project as we had to practice the SOLID design principles.
+  - name: Kapoor, Raghav
     image: images/clients/avater-3.jpg
-    designation: CEO-Themefisher
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Le, Michael
+    image: images/clients/avater-3.jpg
+    content: This Company created an e-commerce site with the tools to make our business
+      a success, with innovative ideas we feel that our site has unique elements that
+      make us stand out from the crowd.
+  - name: Nguyen, Hoang Hiep
+    image: images/clients/avater-3.jpg
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
