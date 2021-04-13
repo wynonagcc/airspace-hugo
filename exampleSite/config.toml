@@ -78,22 +78,12 @@ copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). All R
 languageCode = "en-US"
 languageName = "English"
 weight = 1
-[[languages.en.menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
+[languages.en.menu]
+footer = []
 [[languages.en.menu.main]]
 URL = "/"
 name = "Home"
 weight = 1
-[[languages.en.menu.main]]
-URL = "about"
-name = "About"
-weight = 2
-[[languages.en.menu.main]]
-URL = "project"
-name = "Project"
-weight = 3
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
