@@ -1,5 +1,5 @@
 baseURL = "http://my-grocery-pal-A02.org"
-disableLanguages = [languages.de, languages.fr, languages.it]
+disableLanguages = ["de", "fr", "it"]
 disqusShortname = ""
 googleAnalytics = ""
 paginate = "4"
