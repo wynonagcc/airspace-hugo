@@ -107,7 +107,7 @@ cta:
 funfacts:
   enable: true
   title: About Us
-  description: "'We strive to do the best!'"
+  description: "We strive to be the best and make awesome work."
   funfact_item:
   - icon: ion-coffee
     name: Cups Of Coffee
