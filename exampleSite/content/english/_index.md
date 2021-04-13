@@ -113,11 +113,11 @@ funfacts:
     name: Cups Of Coffee
     count: '99'
   - icon: ion-ios-compose-outline
-    name: Projects Completed
+    name: Features Completed
     count: '6'
   - icon: ion-ios-timer-outline
-    name: Combined Projects
-    count: '7'
+    name: Days of Work
+    count: '56'
   testimonial_slider:
   - name: Capillar, Elieser
     image: images/clients/avater-1.jpg
