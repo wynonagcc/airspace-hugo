@@ -82,26 +82,6 @@ weight = 1
 URL = "about"
 name = "About"
 weight = 1
-[[languages.en.menu.footer]]
-URL = "project"
-name = "Project"
-weight = 2
-[[languages.en.menu.footer]]
-URL = "service"
-name = "Service"
-weight = 3
-[[languages.en.menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[languages.en.menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 5
-[[languages.en.menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [[languages.en.menu.main]]
 URL = "/"
 name = "Home"
@@ -114,30 +94,6 @@ weight = 2
 URL = "project"
 name = "Project"
 weight = 3
-[[languages.en.menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
-[[languages.en.menu.main]]
-hasChildren = true
-name = "More"
-weight = 5
-[[languages.en.menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "More"
-[[languages.en.menu.main]]
-URL = "pricing"
-name = "Pricing"
-parent = "More"
-[[languages.en.menu.main]]
-URL = "service"
-name = "Service"
-parent = "More"
-[[languages.en.menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
 [languages.fr]
 contentDir = "content/french"
 copyright = "Copyright &copy; 2021 [Themefisher](https://themefisher.com). Tous droits réservés."
