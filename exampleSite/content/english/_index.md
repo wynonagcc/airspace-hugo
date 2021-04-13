@@ -109,7 +109,7 @@ funfacts:
   title: About Us
   description: "'We strive to do the best!'"
   funfact_item:
-  - icon: ion-ios-chatboxes-outline
+  - icon: ion-coffee
     name: Cups Of Coffee
     count: '99'
   - icon: ion-ios-compose-outline
