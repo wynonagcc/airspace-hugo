@@ -130,17 +130,14 @@ funfacts:
       integrations tests, and system tests in this project. I also improved my object-oriented programming skills
       while I was programming for the logic of the project as we had to practice the SOLID design principles.
   - name: Kapoor, Raghav
-    image: images/clients/avater-3.jpg
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    image: images/clients/avater-1.jpg
+    content: I learned how to distribute the contruction of a software application into multple layers using the different 
+      software architectual design and patterns.I also honed my logic building skills as i mostly worked on the logic layer of the app development.
   - name: Le, Michael
-    image: images/clients/avater-3.jpg
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    image: images/michaelavatar.png
+    content: I learned how to divide and connect our code into different layers and how to store data in a persistent database.
   - name: Nguyen, Hoang Hiep
-    image: images/clients/avater-3.jpg
+    image: images/clients/avater-1.jpg
     content: This Company created an e-commerce site with the tools to make our business
       a success, with innovative ideas we feel that our site has unique elements that
       make us stand out from the crowd.
