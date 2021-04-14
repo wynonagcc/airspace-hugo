@@ -127,12 +127,12 @@ funfacts:
   - name: Goldiella, Wynona
     image: images/wynonaavatar.png
     content: I have learned a lot about test-driven development skills as I was in charge of most unit tests, 
-      integrations tests, and system tests in this project. I also improved my object-oriented programming skills
+      integration tests, and system tests in this project. I also improved my object-oriented programming skills
       while I was programming for the logic of the project as we had to practice the SOLID design principles.
   - name: Kapoor, Raghav
     image: images/clients/avater-1.jpg
-    content: I learned how to distribute the contruction of a software application into multple layers using the different 
-      software architectual design and patterns.I also honed my logic building skills as i mostly worked on the logic layer of the app development.
+    content: I learned how to distribute the construction of a software application into multiple layers using the different 
+      software architectural design and patterns. I also honed my logic building skills as I mostly worked on the logic layer of the app development.
   - name: Le, Michael
     image: images/michaelavatar.png
     content: I learned how to divide and connect our code into different layers and how to store data in a persistent database.
