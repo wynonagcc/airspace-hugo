@@ -83,12 +83,21 @@ cta:
     that would work with each other for a long time is our time estimates. We kept track of our time estimates for all iterations however we did not really pay attention to 
     make sure they were accurate. If we did we would have an easier time tracking our velocity and adjusted accordingly to make sure we set a more reasonable goal in what we 
     can complete.\n\nHow large is the project (number of methods, classes, etc)? How much of this is (roughly) devoted to each major system component? And any other 
-    quantifiables (e.g. if you have a record of hours spent on tasks).\n\nWhat took the most time? The least? Any surprises?\n One thing that took up most of the time was 
+    quantifiables (e.g. if you have a record of hours spent on tasks).\nThe project has around 70 classes, and 4 interfaces. About 30% of those are devoted to the database, 
+    40% devoted to logic, and 30% devoted to the UI.
+    \n\nWhat took the most time? The least? Any surprises?\n One thing that took up most of the time was 
     learning how new features work on Android Studio. For example, setting up the HSQLDB and to get it actually working took the most time because we were doing it for the 
     first time on Android Studio and the error messages were not as helpful. To code the Domain-specific Objects took the least time because we were all familiar with Java 
-    and how an Object is working in Java.\n\nAre there any particular design smells, or brilliant design decisions?\n\nAre there any outstanding bugs?\n
+    and how an Object is working in Java.\n\nAre there any particular design smells, or brilliant design decisions?\nThere were some design smells such as we didn’t provide   
+    an appropriate message to the user when there’s an invalid input or when the app couldn’t produce the expected result. Additionally, while we’re programming the project, 
+    we’re following the Single Responsibility design principle, so we make each object or each logic as its own class. Thus, when we want to change something, we know exactly 
+    which class that needs to be changed.
+    \n\nAre there any outstanding bugs?\n
     There was a bug in which whenever we switch to a different activity, we couldn't access the database somehow. We couldn’t find the root of the problem for a while until  
-    we fixed the place where we are setting up the databases, which is in the Main Activity.\n\nDid any features work better than expected?\n\nAre you using any technologies 
+    we fixed the place where we are setting up the databases, which is in the Main Activity.\n\nDid any features work better than expected?\nThe search algorithm to find the 
+    store options that match the grocery list works better than expected because we were expecting that there will be some bugs related to it after iteration 1, but that 
+    didn’t happen. And it also turns out that we can use it for the remaining iterations.
+    \n\nAre you using any technologies 
     other than what was required (e.g. JMock, GUI builders, etc.)?\nNo, we are using required technologies only.\n\nAre you using any specific techniques covered in the 
     course (TDD, pair programming, scrums, etc)?\n
     We used pair programming techniques a lot for certain features. Some features that require a lot of effort were done by two people, where one person is writing the code 
