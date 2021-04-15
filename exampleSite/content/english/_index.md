@@ -146,7 +146,7 @@ funfacts:
     image: images/michaelavatar.png
     content: I learned how to divide and connect our code into different layers and how to store data in a persistent database.
   - name: Nguyen, Hoang Hiep
-    image: images/clients/avater-1.jpg
+    image: images/hiepavatar.jpeg
     content: Throughout this project, I have improved my programming skill by implementing programming practice. Moreover, by practicing agile, I have learnt how to be a better team member.
 velocity:
   enable: true
