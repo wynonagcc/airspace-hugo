@@ -129,10 +129,10 @@ funfacts:
     count: '56'
   testimonial_slider:
   - name: Capillar, Elieser
-    image: images/clients/avater-1.jpg
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    image: images/eliavatar.jpg
+    content: Throughout this project I learned quite a bit regarding the Android Studio documentation. Being in charge of the GUI, I had to read up on a lot of the 
+      documentation in order to effectively and efficiently plan out the layout of the destinations. I gained valuable experience with some of the many facets of Android 
+      Studio, a big one being Fragments and Navigation.
   - name: Goldiella, Wynona
     image: images/wynonaavatar.png
     content: I have learned a lot about test-driven development skills as I was in charge of most unit tests, 
@@ -150,10 +150,13 @@ funfacts:
     content: Throughout this project, I have improved my programming skill by implementing programming practice. Moreover, by practicing agile, I have learnt how to be a better team member.
 velocity:
   enable: true
-  image: images/gettyimages-1158242033_4110232.jpg
+  image: images/velocity.png
   title: PROJECT VELOCITY
-  content: The actual work completed on the velocity chart is based on how much
-    we have done during each iteration including the fixes.
+  content: We’re counting the number of user stories and developer tasks for our velocity chart. The developer tasks also include the fixes that we planned to do. For the 
+    second iteration, we commit to more user stories and developer tasks because we could accomplish all the user stories and developer tasks in iteration 1. However, it 
+    turns out that there were some bugs that needed to be fixed from iteration 1 and setting up the database also took more time than expected. Thus, we couldn’t complete all 
+    of them in iteration 2. Then, for iteration 3, we commit less because we become more aware of how much we could accomplish in 1 iteration and we want to accomplish the 
+    tasks more carefully so that we could avoid from having more bugs in the app.
     
 title: My Grocery Pal
 
