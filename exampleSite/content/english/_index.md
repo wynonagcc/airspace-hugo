@@ -144,7 +144,8 @@ funfacts:
       software architectural design and patterns. I also honed my logic building skills as I mostly worked on the logic layer of the app development.
   - name: Le, Michael
     image: images/michaelavatar.png
-    content: I learned how to divide and connect our code into different layers and how to store data in a persistent database.
+    content: I learned how to divide and connect our code into different layers and how to store data in a persistent database. Furthermore, I learned how to maintain code  
+      that's written by other members and make sure that the code work together correctly.
   - name: Nguyen, Hoang Hiep
     image: images/hiepavatar.jpeg
     content: Throughout this project, I have improved my programming skill by implementing programming practice. Moreover, by practicing agile, I have learnt how to be a better team member.
