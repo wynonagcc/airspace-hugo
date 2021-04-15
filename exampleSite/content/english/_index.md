@@ -130,7 +130,7 @@ funfacts:
       integration tests, and system tests in this project. I also improved my object-oriented programming skills
       while I was programming for the logic of the project as we had to practice the SOLID design principles.
   - name: Kapoor, Raghav
-    image: images/clients/avater-1.jpg
+    image: images/raghavavatar.jpeg
     content: I learned how to distribute the construction of a software application into multiple layers using the different 
       software architectural design and patterns. I also honed my logic building skills as I mostly worked on the logic layer of the app development.
   - name: Le, Michael
