@@ -138,9 +138,7 @@ funfacts:
     content: I learned how to divide and connect our code into different layers and how to store data in a persistent database.
   - name: Nguyen, Hoang Hiep
     image: images/clients/avater-1.jpg
-    content: This Company created an e-commerce site with the tools to make our business
-      a success, with innovative ideas we feel that our site has unique elements that
-      make us stand out from the crowd.
+    content: Throughout this project, I have improved my programming skill by implementing programming practice. Moreover, by practicing agile, I have learnt how to be a better team member.
 velocity:
   enable: true
   image: images/gettyimages-1158242033_4110232.jpg
